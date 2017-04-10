@@ -1,6 +1,8 @@
 # stopwatch-cli
 A simple stopwatch app that runs on the shell.
 
+![screenshot](https://cldup.com/Svbrr16C7v.gif)
+
 ## Install
 
 `npm install -g stopwatch-cli`
