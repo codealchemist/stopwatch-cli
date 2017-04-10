@@ -1,0 +1,28 @@
+{
+  "name": "stopwatch-cli",
+  "version": "1.0.0",
+  "description": "A simple stopwatch app that runs from the shell.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "lint-focus": "standard-focus",
+    "test": "standard"
+  },
+  "bin": {
+    "stopwatch-cli": "./src/index.js"
+  },
+  "keywords": [
+    "timer"
+  ],
+  "author": "Alberto Miranda",
+  "repository": "codealchemist/stopwatch-cli",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-focus": "^1.1.2"
+  },
+  "dependencies": {
+    "clivas": "^0.2.0",
+    "format-duration": "^1.0.0",
+    "keypress": "^0.2.1"
+  }
+}
