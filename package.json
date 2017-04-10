@@ -1,7 +1,7 @@
 {
   "name": "stopwatch-cli",
   "version": "1.0.0",
-  "description": "A simple stopwatch app that runs from the shell.",
+  "description": "A simple stopwatch app that runs on the shell.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
