@@ -1,6 +1,8 @@
 # stopwatch-cli
 A simple stopwatch app that runs on the shell.
 
+[![Build Status](https://travis-ci.org/codealchemist/stopwatch-cli.svg?branch=master)](https://travis-ci.org/codealchemist/stopwatch-cli)
+
 ![screenshot](https://cldup.com/Svbrr16C7v.gif)
 
 ## Install
